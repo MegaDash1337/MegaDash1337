@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MegaDash1337
 - 👀 I’m interested in C# development
 - 🌱 I’m currently learning C#
+- 👧 True anime girl programmer
 
 # About me
-If anime girls were real I would do my best to date one.
 I enjoy Japanese culture and I hope I go to live in Japan
 My favorite programming language is C# but also I like Python 
 
