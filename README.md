@@ -4,8 +4,7 @@
 - 👧 True anime girl programmer
 
 # About me
-I enjoy Japanese culture and I hope I go to live in Japan
-My favorite programming language is C# but also I like Python 
+I'm true anime girl and I forbid you to doubt it
 
 <!---
 MegaDash1337/MegaDash1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
